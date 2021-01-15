@@ -1,0 +1,49 @@
+{
+  "_args": [
+    [
+      "git://github.com/meetecho/janus-gateway.git",
+      "/Users/hritik/Projects/meetplus"
+    ]
+  ],
+  "_from": "git://github.com/meetecho/janus-gateway.git",
+  "_id": "janus-gateway@git://github.com/meetecho/janus-gateway.git#6d31208bbc38e495bf8632e1c9519f499bb41440",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/janus-gateway",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/meetecho/janus-gateway.git",
+    "rawSpec": "git://github.com/meetecho/janus-gateway.git",
+    "saveSpec": "git://github.com/meetecho/janus-gateway.git",
+    "fetchSpec": "git://github.com/meetecho/janus-gateway.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/meetecho/janus-gateway.git#6d31208bbc38e495bf8632e1c9519f499bb41440",
+  "_spec": "git://github.com/meetecho/janus-gateway.git",
+  "_where": "/Users/hritik/Projects/meetplus",
+  "author": {
+    "name": "Lorenzo Miniero",
+    "email": "lorenzo@meetecho.com",
+    "url": "http://www.meetecho.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/meetecho/janus-gateway/issues"
+  },
+  "dependencies": {
+    "webrtc-adapter": "6.4.0"
+  },
+  "description": "A javascript library for interacting with the C based Janus WebRTC Server",
+  "homepage": "https://github.com/meetecho/janus-gateway#readme",
+  "license": "GPL-3.0",
+  "main": "html/janus.js",
+  "name": "janus-gateway",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetecho/janus-gateway.git"
+  },
+  "version": "0.7.5"
+}
